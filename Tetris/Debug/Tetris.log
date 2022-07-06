@@ -1,0 +1,5 @@
+﻿  ToBeImproved.c
+C:\Users\38642\source\repos\Tetris\Tetris\ToBeImproved.c(107,29): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\38642\source\repos\Tetris\Tetris\ToBeImproved.c(474,33): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\38642\source\repos\Tetris\Tetris\ToBeImproved.c(626,37): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Tetris.vcxproj -> C:\Users\38642\source\repos\Tetris\Debug\Tetris.exe
